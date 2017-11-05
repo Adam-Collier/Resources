@@ -1,85 +1,62 @@
-# Links
-
+# Start Your Web Journey
+Web is still one of the largest growing parts of the tech industries with [IOT](https://www.theguardian.com/technology/2015/may/06/what-is-the-internet-of-things-google) Devices and personal assistance boom happening at the moment, this would be an easiest entry into the industry _per se_. 
 ## Handy Linkage
 
 [FreeCodeCamp Guides](https://guide.freecodecamp.org/)
 
 [DevDocs](http://devdocs.io/)
 
-[Node Version Manager (NVM) (Great tool!!)](https://github.com/creationix/nvm)
+# Web Design
+Makes your webpages more intuitive, the markup more maintable and uncover the subtle different browsers.
+<br/>
+<br/>
+[Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.k9s9rseha) - An nice animated guide to Web Designers companion for responsive designs
 
-## Atom
+[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Used to whispers a living breathing into webpages
 
-[10 essential Atom add ons](https://www.sitepoint.com/10-essential-atom-add-ons/)
+[Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/) - Gain Mastery manipulating the shadow-DOM
+<br/>
+<br/>
+<br/>
 
-[12 Favorite Atom Tips and Shortcuts to Improve Your Workflow](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
+# JavaScript Mastery
+Organised in terms of difficulty. Don't worry if you understand what you read, coding is hard - an understatement. You can always come back, but some concepts may take longer to wrap your head round than others.
 
-[Handy Atom Shortcuts](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee#atom_file)
+[Javascript for Cats](http://jsforcats.com) - A big leap here, **JavaScript** + Using the **Web Console** + **Cats**; try not to be too intimidated.
 
-[Atom Snippets](http://flight-manual.atom.io/using-atom/sections/snippets/)
+[Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8#.ptzczddwb) - make your code pretty again with **map()**.
 
-## Boilerplates
+[Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it) - Every OOP language employs 'this' to refer to abstract coding objects. Unfortunately with JavaScript there are some additional caveats you've got to learn too - see below
 
-[Express Generator](https://expressjs.com/en/starter/generator.html)
+[.call(), .apply() and .bind() explained](https://medium.com/@owenyangg/javascript-call-apply-and-bind-explained-to-a-total-noob-63f146684564#.dni7a87om) - these function usually confuse developers from other languages, due to their nature with _this_. Aids with handling the OOP side with JS functional aspects
 
-[Express Authentication Starter](https://github.com/sahat/hackathon-starter)
+[What is a promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.jxkupvl21) - does what it says on the tin.
 
-## CSS
+[The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party) - wrapping your head round promises, callbacks and asynchronous stuff, with burger analogies. Nom nom!
 
-[An animated guide to Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.k9s9rseha)
+[Javascript Cheat Sheet](https://github.com/krishnr/JavaScript-cheat-sheet#callbacks) - a cheeky set of JavaScripts feature descript upsides and essentials
 
-[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid)
+[What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - video  with some handy visualisations, and fun hacks, let’s get an intuitive understanding of what happens when JavaScript runs.
 
-[Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/)
 
-## Git & Github
+[Higher Order Functions playlist - funfunfunction](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - regardless if it's JavaScript you are learning, understanding higher order functions, allows you master the functional programming side of coding.
 
-[Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+[David Walsh Fetch Api Article](https://davidwalsh.name/fetch) - Total classic, API is just a fancy term of using a [libraries](https://www.quora.com/What-does-library-mean-in-the-case-of-programming-languages) to interact with another person program essentially
+<br/>
+<br/>
 
-[Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
-
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
-## Gulp
-
-[Gulp Basics with LevelUpTuts](https://www.youtube.com/watch?v=wNlEK8qrb0M&list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
-
-[Express, Browsersync, Nodemon and Sass config](https://gist.github.com/Adam-Collier/973abbb109a39c8be1cd2000666d9c3e)
-
-## Javascript
-
-[Javascript Cheat Sheet](https://github.com/krishnr/JavaScript-cheat-sheet#callbacks)
-
-[.call(), .apply() and .bind() explained](https://medium.com/@owenyangg/javascript-call-apply-and-bind-explained-to-a-total-noob-63f146684564#.dni7a87om)
-
-[What is a promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261#.jxkupvl21)
-
-[The Promise of a Burger Party](https://kosamari.com/notes/the-promise-of-a-burger-party)
-
-[Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8#.ptzczddwb)
-
-[What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-
-[Javascript for Cats](http://jsforcats.com)
-
-[Higher Order Functions playlist - funfunfunction](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
-
-[David Walsh Fetch Api Article](https://davidwalsh.name/fetch)
-
-[Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it)
-
-## MongoDB
-
-[The Net Ninja Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
-
-## Node
+# Node
+This help set a strong foundation JavaScript adoption across the code. JS once seen as toy-like client-side scripting language, is now a fully stacked language.
 
 [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
 
 [NodeSchool (command line based)](https://nodeschool.io)
 
 [Stream Handbook](https://github.com/substack/stream-handbook/blob/master/readme.markdown)
+<br/>
+<br/>
 
+# Awesome Libraries
 ## React
 
 [React Howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -91,11 +68,77 @@
 [React Fundamentals - Tyler McGinnis](https://reacttraining.com/online/react-fundamentals)
 
 [React FreeCodeCamp Beta](http://hysterical-amusement.surge.sh)
+<br/>
+<br/>
 
-## Testing
+# Backend Stuff
 
-[What every Unit test needs](https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d#.auk1v9poj)
+## MongoDB
 
-## Webpack
+[The Net Ninja Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+<br/>
+<br/>
 
-[Getting started with Webpack](https://scotch.io/tutorials/getting-started-with-webpack-module-bundling-magic)
+# Toolbelt
+Can't be stressed enough, time spent invested into improving their environment. Helps them build faster, automate tedious processes. Just makes life a bit easier.
+<br/>
+<br/>
+
+## Text Editors
+A must for all developers, it's either that or microsofts notepad.
+<br/>
+<br/>
+
+[Atom](https://atom.io/) - modern hackable text editor
+
++ [10 essential Atom add ons](https://www.sitepoint.com/10-essential-atom-add-ons/)
++ [12 Favorite Atom Tips and Shortcuts to Improve Your Workflow](https://www.sitepoint.com/12-favorite-atom-tips-and-shortcuts-to-improve-your-workflow/)
++ [Handy Atom Shortcuts](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee#atom_file)
++ [Atom Snippets](http://flight-manual.atom.io/using-atom/sections/snippets/)
+<br/>
+<br/>
+
+## Boilerplates
+Useful if you want something quick and easy to get off the ground.
+
+[Express Generator](https://expressjs.com/en/starter/generator.html)
+
+[Express Authentication Starter](https://github.com/sahat/hackathon-starter)
+<br/>
+<br/>
+
+## Dependency Management
+What if every everyone released the new version of their modules at the same time, and everyone updated the moment after. Simply put it, never gonna happen.
+
+[Node Version Manager (NVM)](https://github.com/creationix/nvm) [Mac OSX and Linux]
+Seemlessly manage the version of node, npm, npx. 
+<br/>
+<br/>
+
+[Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/what-is-npm) - Every other languages are jealous cause of this elegant dependency management help. Keeps tracks of all the modules/packages you download
+<br/>
+<br/>
+
+[Gitkraken](https://www.gitkraken.com/) - UI friendly git for Git novices and professionals alike. Git is a software industry standard, so it's a must!
+
++ [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
++ [Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<br/>
+<br/>
+
+## Task Runners + Bundler
+1) Task Runners - used to automate, enable faster and efficient builds; enhances developer workflow, with plugins.
+2) Bundlers - are task runners, and with asset loading optimisation.
+
+[Gulp](https://gulpjs.com/) - simple, easy to learn task runner, producing efficient builds, automate task
++ [Gulp Basics with LevelUpTuts](https://www.youtube.com/watch?v=wNlEK8qrb0M&list=PLLnpHn493BHE2RsdyUNpbiVn-cfuV7Fos)
++ [Express, Browsersync, Nodemon and Sass config](https://gist.github.com/Adam-Collier/973abbb109a39c8be1cd2000666d9c3e) - Full-Stack config starter back for gulp users
+<br/>
+
+[Webpack](https://webpack.js.org/) - Builds a graph of dependencies makes loading dependencies faster and enables more modular code
++ [Getting Started with Webpack](https://webpack.js.org/guides/getting-started/)
+<br/>
+<br/>
+# Testing
+How do you know if the system you built works? The easy answer we usually don't. Still we can become more confident
