@@ -1,15 +1,16 @@
-# Start Your Web Journey
-Web is still one of the largest growing parts of the tech industries with [IOT](https://www.theguardian.com/technology/2015/may/06/what-is-the-internet-of-things-google) Devices and personal assistance boom happening at the moment, this would be an easiest entry into the industry _per se_. 
-## Handy Linkage
+# Web development learning resources
+
+## References
 
 [FreeCodeCamp Guides](https://guide.freecodecamp.org/)
 
 [DevDocs](http://devdocs.io/)
 
-# Web Design
-Makes your webpages more intuitive, the markup more maintable and uncover the subtle different browsers.
+# Front End 
+The practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 <br/>
 <br/>
+## CSS
 [Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.k9s9rseha) - An nice animated guide to Web Designers companion for responsive designs
 
 [CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Used to whispers a living breathing into webpages
@@ -19,8 +20,7 @@ Makes your webpages more intuitive, the markup more maintable and uncover the su
 <br/>
 <br/>
 
-# JavaScript Mastery
-Organised in terms of difficulty. Don't worry if you understand what you read, coding is hard - an understatement. You can always come back, but some concepts may take longer to wrap your head round than others.
+## JavaScript
 
 [Javascript for Cats](http://jsforcats.com) - A big leap here, **JavaScript** + Using the **Web Console** + **Cats**; try not to be too intimidated.
 
@@ -45,18 +45,6 @@ Organised in terms of difficulty. Don't worry if you understand what you read, c
 <br/>
 <br/>
 
-# Node
-This help set a strong foundation JavaScript adoption across the code. JS once seen as toy-like client-side scripting language, is now a fully stacked language.
-
-[The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
-
-[NodeSchool (command line based)](https://nodeschool.io)
-
-[Stream Handbook](https://github.com/substack/stream-handbook/blob/master/readme.markdown)
-<br/>
-<br/>
-
-# Awesome Libraries
 ## React
 
 [React Howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -71,7 +59,18 @@ This help set a strong foundation JavaScript adoption across the code. JS once s
 <br/>
 <br/>
 
-# Backend Stuff
+# Back End
+The backend of an application is responsible for things like calculations, business logic, database interactions, and performance.
+
+## Node
+
+[The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
+
+[NodeSchool (command line based)](https://nodeschool.io)
+
+[Stream Handbook](https://github.com/substack/stream-handbook/blob/master/readme.markdown)
+<br/>
+<br/>
 
 ## MongoDB
 
@@ -80,12 +79,11 @@ This help set a strong foundation JavaScript adoption across the code. JS once s
 <br/>
 
 # Toolbelt
-Can't be stressed enough, time spent invested into improving their environment. Helps them build faster, automate tedious processes. Just makes life a bit easier.
+Can't be stressed enough, time spent invested into improving their environment. Helps developers build applications/websites faster and automate tedious processes. Just makes life a bit easier.
 <br/>
 <br/>
 
 ## Text Editors
-A must for all developers, it's either that or microsofts notepad.
 <br/>
 <br/>
 
@@ -119,15 +117,18 @@ Seemlessly manage the version of node, npm, npx.
 <br/>
 <br/>
 
+## Version Control
+
 [Gitkraken](https://www.gitkraken.com/) - UI friendly git for Git novices and professionals alike. Git is a software industry standard, so it's a must!
 
-+ [Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
-+ [Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
-+ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+[Git and GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)
+[Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 <br/>
 <br/>
 
-## Task Runners + Bundler
+## Task Runners + Bundlers
 1) Task Runners - used to automate, enable faster and efficient builds; enhances developer workflow, with plugins.
 2) Bundlers - are task runners, and with asset loading optimisation.
 
