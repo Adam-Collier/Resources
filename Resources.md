@@ -1,12 +1,10 @@
 # Links
 
-## Handy Linkage
+## Super Useful Tools
 
-[FreeCodeCamp Guides](https://guide.freecodecamp.org/)
+[Node Version Manager (NVM)](https://github.com/creationix/nvm)
 
-[DevDocs](http://devdocs.io/)
-
-[Node Version Manager (NVM) (Great tool!!)](https://github.com/creationix/nvm)
+[BrowserSync](https://www.browsersync.io/)
 
 ## Atom
 
@@ -46,6 +44,16 @@
 
 [Express, Browsersync, Nodemon and Sass config](https://gist.github.com/Adam-Collier/973abbb109a39c8be1cd2000666d9c3e)
 
+## Hosting
+
+[Github Pages](https://pages.github.com/)
+
+[Heroku](https://www.heroku.com/)
+
+[MLab](https://mlab.com/)
+
+[AWS](https://aws.amazon.com/)
+
 ## Javascript
 
 [Javascript Cheat Sheet](https://github.com/krishnr/JavaScript-cheat-sheet#callbacks)
@@ -68,9 +76,15 @@
 
 [Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it)
 
+## Language Reference
+
+[FreeCodeCamp Guides](https://guide.freecodecamp.org/)
+
+[DevDocs](http://devdocs.io/)
+
 ## MongoDB
 
-[The Net Ninja Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+[Introduction to MongoDB by The Net Ninja](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
 
 ## Node
 
