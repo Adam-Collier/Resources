@@ -22,6 +22,10 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 [Death of the For Loop](https://hackernoon.com/rethinking-javascript-death-of-the-for-loop-c431564c84a8#.ptzczddwb) - make your code pretty again with **map()**.
 
+[Understanding the Module Pattern in JavaScript](http://adripofjavascript.com/blog/drips/understanding-the-module-pattern-in-javascript.html) - learn you how to make your code accessible, but only when you need it
+
+[How Do You Structure JavaScript? The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) - A nice. understandable introduction to how to structure your javascript 
+
 [Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it) - Every OOP language employs 'this' to refer to abstract coding objects. Unfortunately with JavaScript there are some additional caveats you've got to learn too - see below
 
 [.call(), .apply() and .bind() explained](https://medium.com/@owenyangg/javascript-call-apply-and-bind-explained-to-a-total-noob-63f146684564#.dni7a87om) - these function usually confuse developers from other languages, due to their nature with _this_. Aids with handling the OOP side with JS functional aspects
