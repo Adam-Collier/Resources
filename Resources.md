@@ -6,7 +6,9 @@
 
 [DevDocs](http://devdocs.io/)
 
-# Front End 
+[StackOverflow](http://stackoverflow.com)
+
+# Front End
 The practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 
 ## CSS
@@ -24,7 +26,7 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 [Understanding the Module Pattern in JavaScript](http://adripofjavascript.com/blog/drips/understanding-the-module-pattern-in-javascript.html) - learn you how to make your code accessible, but only when you need it
 
-[How Do You Structure JavaScript? The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) - A nice. understandable introduction to how to structure your javascript 
+[How Do You Structure JavaScript? The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) - A nice. understandable introduction to how to structure your javascript
 
 [Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it) - Every OOP language employs 'this' to refer to abstract coding objects. Unfortunately with JavaScript there are some additional caveats you've got to learn too - see below
 
@@ -92,7 +94,7 @@ Useful if you want something quick and easy to get off the ground.
 What if every everyone released the new version of their modules at the same time, and everyone updated the moment after. Simply put it, never gonna happen.
 
 [Node Version Manager (NVM)](https://github.com/creationix/nvm) [Mac OSX and Linux]
-Seemlessly manage the version of node, npm, npx. 
+Seemlessly manage the version of node, npm, npx.
 
 [Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/what-is-npm) - Every other languages are jealous cause of this elegant dependency management help. Keeps tracks of all the modules/packages you download
 
