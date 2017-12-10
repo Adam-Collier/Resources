@@ -6,13 +6,15 @@
 
 [DevDocs](http://devdocs.io/)
 
+[Useful Youtube Channels](https://github.com/andrew--r/channels)
+
 # Front End 
 The practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 
 ## CSS
 [Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.k9s9rseha) - An nice animated guide to Web Designers companion for responsive designs
 
-[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Used to whispers a living breathing into webpages
+[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Great playlist from Devtips (definitely recommend watching a lot of his videos)
 
 [Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/) - Gain Mastery manipulating the shadow-DOM
 
@@ -53,6 +55,8 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 [React Fundamentals - Tyler McGinnis](https://reacttraining.com/online/react-fundamentals)
 
 [React FreeCodeCamp Beta](http://hysterical-amusement.surge.sh)
+
+[The Motherload of React and Redux Links](https://github.com/markerikson/react-redux-links)
 
 # Back End
 The backend of an application is responsible for things like calculations, business logic, database interactions, and performance.
