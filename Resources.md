@@ -111,6 +111,20 @@ Seemlessly manage the version of node, npm, npx.
 + [Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+### Useful git commands
+
+When you have merged and deleted a branch on github this command will delete the local branches that dont exist remotely.
+
+```bash
+$ git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}' | xargs git branch -d
+```
+
+Refreshes the tracking of your files. Super useful for adding new things to your .gitignore file.
+
+```bash
+$ git rm -r --cached .
+```
+
 ## Task Runners + Bundlers
 1) Task Runners - used to automate, enable faster and efficient builds; enhances developer workflow, with plugins.
 2) Bundlers - are task runners, and with asset loading optimisation.
@@ -121,6 +135,8 @@ Seemlessly manage the version of node, npm, npx.
 
 [Webpack](https://webpack.js.org/) - Builds a graph of dependencies makes loading dependencies faster and enables more modular code
 + [Getting Started with Webpack](https://webpack.js.org/guides/getting-started/)
+
+[Parceljs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 # Testing
 How do you know if the system you built works? The easy answer we usually don't. Still we can become more confident
