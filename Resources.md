@@ -44,6 +44,22 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 [David Walsh Fetch Api Article](https://davidwalsh.name/fetch) - Total classic, API is just a fancy term of using a [library](https://www.quora.com/What-does-library-mean-in-the-case-of-programming-languages) to interact with another person program essentially
 
+### ES6
+
+Learn ES6 the Dope Way
+
++ [Const, let & var](https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
+
++ [Arrow functions and the ‘this’ keyword](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881)
+
++ [Template Literals, Spread Operators, and Generators!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-iii-template-literals-spread-operators-generators-592765337294)
+
++ [Default Parameters, Destructuring Assignment, and a new method!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-iv-default-parameters-destructuring-assignment-a-new-es6-method-44393190b8c9)
+
++ [Classes, Transpiling ES6 Code & More Resources!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661)
+
+[Lets Learn ES6 Playlist](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+
 ## React
 
 [React Howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -71,7 +87,9 @@ The backend of an application is responsible for things like calculations, busin
 
 ## MongoDB
 
-[The Net Ninja Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+[Mongo DB for Beginners Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+
+[Create a REST API Playlist](https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 
 # Toolbelt
 Can't be stressed enough, time spent invested into improving their environment. Helps developers build applications/websites faster and automate tedious processes. Just makes life a bit easier.
