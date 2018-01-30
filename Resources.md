@@ -114,7 +114,40 @@ Useful if you want something quick and easy to get off the ground.
 What if every everyone released the new version of their modules at the same time, and everyone updated the moment after. Simply put it, never gonna happen.
 
 [Node Version Manager (NVM)](https://github.com/creationix/nvm) [Mac OSX and Linux]
-Seemlessly manage the version of node, npm, npx. 
+Seemlessly manage the version of node, npm, npx.
+
+### Setting up via homebrew
+
+```bash
+# install homebrew
+$ brew install nvm
+
+# set where to install
+$ mkdir ~/.nvm
+
+# go to your root directory
+$ cd ~/
+
+# create bash profile
+$ touch .bash_profile
+
+# open in your editor
+$ code .
+
+# paste this into the .bash_profile file and save
+export NVM_DIR="$HOME/.nvm"
+. "$(brew --prefix nvm)/nvm.sh"
+```
+
+### Useful NVM commands
+
+```bash
+# installs the latest version of node
+$ nvm install node
+
+# sets default node version for any new shell
+$ nvm alias default node
+```
 
 [Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/what-is-npm) - Every other languages are jealous cause of this elegant dependency management help. Keeps tracks of all the modules/packages you download
 
