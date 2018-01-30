@@ -8,13 +8,15 @@
 
 [StackOverflow](http://stackoverflow.com)
 
-# Front End
+[Useful Youtube Channels](https://github.com/andrew--r/channels)
+
+# Front End 
 The practice of producing HTML, CSS and JavaScript for a website or Web Application so that a user can see and interact with them directly.
 
 ## CSS
 [Flexbox](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35#.k9s9rseha) - An nice animated guide to Web Designers companion for responsive designs
 
-[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Used to whispers a living breathing into webpages
+[CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Great playlist from Devtips (definitely recommend watching a lot of his videos)
 
 [Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/) - Gain Mastery manipulating the shadow-DOM
 
@@ -44,6 +46,22 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 [David Walsh Fetch Api Article](https://davidwalsh.name/fetch) - Total classic, API is just a fancy term of using a [library](https://www.quora.com/What-does-library-mean-in-the-case-of-programming-languages) to interact with another person program essentially
 
+### ES6
+
+Learn ES6 the Dope Way
+
++ [Const, let & var](https://medium.freecodecamp.org/learn-es6-the-dope-way-i-const-let-var-ae828580472b)
+
++ [Arrow functions and the ‘this’ keyword](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-ii-arrow-functions-and-the-this-keyword-381ac7a32881)
+
++ [Template Literals, Spread Operators, and Generators!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-iii-template-literals-spread-operators-generators-592765337294)
+
++ [Default Parameters, Destructuring Assignment, and a new method!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-iv-default-parameters-destructuring-assignment-a-new-es6-method-44393190b8c9)
+
++ [Classes, Transpiling ES6 Code & More Resources!](https://medium.freecodecamp.org/learn-es6-the-dope-way-part-v-classes-browser-compatibility-transpiling-es6-code-47f62267661)
+
+[Lets Learn ES6 Playlist](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
+
 ## React
 
 [React Howto by Pete Hunt](https://github.com/petehunt/react-howto)
@@ -55,6 +73,8 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 [React Fundamentals - Tyler McGinnis](https://reacttraining.com/online/react-fundamentals)
 
 [React FreeCodeCamp Beta](http://hysterical-amusement.surge.sh)
+
+[The Motherload of React and Redux Links](https://github.com/markerikson/react-redux-links)
 
 # Back End
 The backend of an application is responsible for things like calculations, business logic, database interactions, and performance.
@@ -69,7 +89,9 @@ The backend of an application is responsible for things like calculations, busin
 
 ## MongoDB
 
-[The Net Ninja Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+[Mongo DB for Beginners Playlist](https://www.youtube.com/watch?v=9OPP_1eAENg&list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u)
+
+[Create a REST API Playlist](https://www.youtube.com/watch?v=BRdcRFvuqsE&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8)
 
 # Toolbelt
 Can't be stressed enough, time spent invested into improving their environment. Helps developers build applications/websites faster and automate tedious processes. Just makes life a bit easier.
@@ -109,6 +131,20 @@ Seemlessly manage the version of node, npm, npx.
 + [Git for Noobs - command line](https://www.youtube.com/watch?v=JPKOESR1k04&t=1011s)
 + [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+### Useful git commands
+
+When you have merged and deleted a branch on github this command will delete the local branches that dont exist remotely.
+
+```bash
+$ git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}' | xargs git branch -d
+```
+
+Refreshes the tracking of your files. Super useful for adding new things to your .gitignore file.
+
+```bash
+$ git rm -r --cached .
+```
+
 ## Task Runners + Bundlers
 1) Task Runners - used to automate, enable faster and efficient builds; enhances developer workflow, with plugins.
 2) Bundlers - are task runners, and with asset loading optimisation.
@@ -119,6 +155,8 @@ Seemlessly manage the version of node, npm, npx.
 
 [Webpack](https://webpack.js.org/) - Builds a graph of dependencies makes loading dependencies faster and enables more modular code
 + [Getting Started with Webpack](https://webpack.js.org/guides/getting-started/)
+
+[Parceljs](https://parceljs.org/) - Blazing fast, zero configuration web application bundler
 
 # Testing
 How do you know if the system you built works? The easy answer we usually don't. Still we can become more confident
