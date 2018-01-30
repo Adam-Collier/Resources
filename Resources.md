@@ -6,6 +6,8 @@
 
 [DevDocs](http://devdocs.io/)
 
+[StackOverflow](http://stackoverflow.com)
+
 [Useful Youtube Channels](https://github.com/andrew--r/channels)
 
 # Front End 
@@ -26,7 +28,7 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 [Understanding the Module Pattern in JavaScript](http://adripofjavascript.com/blog/drips/understanding-the-module-pattern-in-javascript.html) - learn you how to make your code accessible, but only when you need it
 
-[How Do You Structure JavaScript? The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) - A nice. understandable introduction to how to structure your javascript 
+[How Do You Structure JavaScript? The Module Pattern Edition](https://css-tricks.com/how-do-you-structure-javascript-the-module-pattern-edition/) - A nice. understandable introduction to how to structure your javascript
 
 [Understand JavaScript's "this" With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it) - Every OOP language employs 'this' to refer to abstract coding objects. Unfortunately with JavaScript there are some additional caveats you've got to learn too - see below
 
@@ -115,39 +117,6 @@ What if every everyone released the new version of their modules at the same tim
 
 [Node Version Manager (NVM)](https://github.com/creationix/nvm) [Mac OSX and Linux]
 Seemlessly manage the version of node, npm, npx.
-
-### Setting up via homebrew
-
-```bash
-# install homebrew
-$ brew install nvm
-
-# set where to install
-$ mkdir ~/.nvm
-
-# go to your root directory
-$ cd ~/
-
-# create bash profile
-$ touch .bash_profile
-
-# open in your editor
-$ code .
-
-# paste this into the .bash_profile file and save
-export NVM_DIR="$HOME/.nvm"
-. "$(brew --prefix nvm)/nvm.sh"
-```
-
-### Useful NVM commands
-
-```bash
-# installs the latest version of node
-$ nvm install node
-
-# sets default node version for any new shell
-$ nvm alias default node
-```
 
 [Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/what-is-npm) - Every other languages are jealous cause of this elegant dependency management help. Keeps tracks of all the modules/packages you download
 
