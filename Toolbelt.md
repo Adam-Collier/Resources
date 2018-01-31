@@ -1,8 +1,6 @@
 # Toolbelt
 Can't be stressed enough, time spent invested into improving their environment. Helps developers build applications/websites faster and automate tedious processes. Just makes life a bit easier.
 
-</br>
-
 ## Text Editors
 
 [Atom](https://atom.io/) - modern hackable text editor
@@ -12,16 +10,12 @@ Can't be stressed enough, time spent invested into improving their environment. 
 + [Handy Atom Shortcuts](https://gist.github.com/chrissimpkins/5bf5686bae86b8129bee#atom_file)
 + [Atom Snippets](http://flight-manual.atom.io/using-atom/sections/snippets/)
 
-</br>
-
 ## Boilerplates
 Useful if you want something quick and easy to get off the ground.
 
 [Express Generator](https://expressjs.com/en/starter/generator.html)
 
 [Express Authentication Starter](https://github.com/sahat/hackathon-starter)
-
-</br>
 
 ## Dependency Management
 What if every everyone released the new version of their modules at the same time, and everyone updated the moment after. Simply put it, never gonna happen.
@@ -30,8 +24,6 @@ What if every everyone released the new version of their modules at the same tim
 Seemlessly manage the version of node, npm, npx.
 
 [Node Package Manager (NPM)](https://docs.npmjs.com/getting-started/what-is-npm) - Every other languages are jealous cause of this elegant dependency management help. Keeps tracks of all the modules/packages you download
-
-</br>
 
 ## Version Control
 

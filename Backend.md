@@ -1,8 +1,6 @@
 # Back End
 The backend of an application is responsible for things like calculations, business logic, database interactions, and performance.
 
-</br>
-
 ## __Node__
 
 [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node)
@@ -10,9 +8,6 @@ The backend of an application is responsible for things like calculations, busin
 [NodeSchool (command line based)](https://nodeschool.io)
 
 [Stream Handbook](https://github.com/substack/stream-handbook/blob/master/readme.markdown)
-
-</br>
-
 
 ## __MongoDB__
 

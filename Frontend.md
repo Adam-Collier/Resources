@@ -3,8 +3,6 @@ The practice of producing HTML, CSS and JavaScript for a website or Web Applicat
 
 This is what the user of your web app or static website will see, and interact with - kinda like the stars of the show on stage.
 
-</br>
-
 ## __CSS__ (Cascading Style Sheets)
 
 Breaking this word up into smaller parts, lets start with the phase 'Style Sheets'.
@@ -20,8 +18,6 @@ If you are completely new to web development, please head to [W3School CSS](http
 [CSS Animations](https://www.youtube.com/watch?v=8kK-cA99SA0&list=PLqGj3iMvMa4LvJ8VctoXnPI0dtE40wfid) - Great playlist from Devtips (definitely recommend watching a lot of his videos)
 
 [Pseudo Class Selectors](https://css-tricks.com/pseudo-class-selectors/) - Gain Mastery manipulating the shadow-DOM
-
-</br>
 
 ## __JavaScript__
 
@@ -49,9 +45,7 @@ If you are completely new to web development, please head to [W3School CSS](http
 
 [David Walsh Fetch Api Article](https://davidwalsh.name/fetch) - Total classic, API is just a fancy term of using a [library](https://www.quora.com/What-does-library-mean-in-the-case-of-programming-languages) to interact with another person program essentially
 
-</br>
-
-### __JavaScript__ > __ES6__ 
+### __ES6__ 
 
 Learn ES6 the Dope Way. 
 
@@ -77,9 +71,7 @@ Not going to go into any more depth, the story to take from this is that having 
 
 [Lets Learn ES6 Playlist](https://www.youtube.com/watch?v=LTbnmiXWs2k&list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX)
 
-</br>
-
-### __JavaScript__ > __React__
+### __React__
 
 React is a view library created by Facebook, that frontend devs utilize. Due to it's rapid ability to render only particular parts of the page when it's required - known as dynamically generating elements.
 

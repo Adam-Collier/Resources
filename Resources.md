@@ -1,7 +1,5 @@
 # Web development learning resources
 
-</br>
-
 ## Quick References
 
 [FreeCodeCamp Guides](https://guide.freecodecamp.org/)
